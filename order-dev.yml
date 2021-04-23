@@ -1,6 +1,2 @@
-server:
-  port: 80
-
-spring:
-  application:
-    name: order-dev-change112
+spring: 是大叔大所大多
+  
